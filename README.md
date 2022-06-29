@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Khalil Attalla Firdia's github stats](https://github-readme-stats.vercel.app/api?username=khalil9022&show_icons=true&theme=outrun&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil9022&show_icons=true&theme=outrun&count_private=true)](https://github.com/khalil9022/readme)
 
 ## 💻 Experiences
 - GIT 
