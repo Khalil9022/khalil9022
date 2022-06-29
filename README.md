@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align='center'>Hello! 👋</h1>
+
 ![Khalil Attalla Firdia's github stats](https://github-readme-stats.vercel.app/api?username=khalil9022&show_icons=true&theme=outrun&count_private=true)
 
 ## 💻 Experiences
