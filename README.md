@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align='center'>Assalamualaikum 👋</h1>
+<h1 align='center'>Hello 👋</h1>
 
 ![Khalil Attalla Firdia's github stats](https://github-readme-stats.vercel.app/api?username=khalil9022&show_icons=true&theme=outrun&count_private=true)
 
@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 - Node JS
 - JavaScript
 - Laravel
-- Python
+- Golang
+- MongoDB
 
 ### 🚀 How to reach me:
 - Email: [khalilattalla2209@gmail.com](khalilattalla2209@gmail.com)
